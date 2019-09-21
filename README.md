@@ -15,7 +15,7 @@
 
 ## Train and Predict
 
-## performance measure
+## Performance measure
     - precision, recall, f1 score
     - confusion matrix
     - ROC curves (TODO)
