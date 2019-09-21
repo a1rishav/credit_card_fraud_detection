@@ -2,13 +2,11 @@
 
 ## Data visualization
     - fraud vs non fraud count (plot)
-    - frauds describe
-    - confusion matrix
-    - separate numerical and categorical data
    
 ## Data preprocessing
     - remove/fill null values
     - perform memory reduction
+    - separate numerical and categorical data
     - what features are important ?
     - what to do with categorical data ?
     - how to handle imbalanced data
@@ -19,4 +17,5 @@
 
 ## performance measure
     - precision, recall, f1 score
+    - confusion matrix
     - ROC curves (TODO)
